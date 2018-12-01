@@ -23,3 +23,5 @@ if __name__ == '__main__':
   file_out = sys.argv[2]
   if len(sys.argv) == 3:
     makeDirlist(dir_in, file_out)
+#usage: python makelist.py label_3balanced label_3balanced.txt
+#fast!!
